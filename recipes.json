@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "photo": "https://www.giallozafferano.it/images/ricette/240/24011/foto_hd/hd650x433.jpg",
+    "photo": "https://s3-eu-west-1.amazonaws.com/dev5-fandomlab-com/granarolo_consumer/attachments/data/000/001/432/original/open-uri20250227-3303470-rb6kau?1740675456",
     "title": "Lasagna Bolognese",
     "author": "Mario Rossi",
     "prep_time": "1h 30m",
@@ -10,7 +10,7 @@
   },
   {
     "id": "2",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sushi_platter.jpg/800px-Sushi_platter.jpg",
+    "photo": "https://san-sushi.it/wp-content/uploads/2022/07/082-Box-misto-Uramaki-4pz-nigiri-4pz-min-scaled.jpg",
     "title": "Mixed Sushi",
     "author": "Yuki Tanaka",
     "prep_time": "1h",
@@ -19,7 +19,7 @@
   },
   {
     "id": "3",
-    "photo": "https://www.thespruceeats.com/thmb/2fnNMRbDXx35nGpE1vHjYJvZEKI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pad-thai-recipe-3217131-hero-01-bf0b5c5638754bb8bc212589a6cf429f.jpg",
+    "photo": "https://www.italiansprout.com/cdn/shop/articles/piatto-min_1170x.jpg?v=1680871257",
     "title": "Pad Thai",
     "author": "Somsak Chai",
     "prep_time": "40m",
@@ -28,7 +28,7 @@
   },
   {
     "id": "4",
-    "photo": "https://hips.hearstapps.com/hmg-prod/images/chinese-food-1580230154.jpg",
+    "photo": "https://marcwiner.com/wp-content/uploads/2024/03/Poulet-aux-amandes-en-tete.webp",
     "title": "Almond Chicken",
     "author": "Li Wei",
     "prep_time": "35m",
@@ -37,7 +37,7 @@
   },
   {
     "id": "5",
-    "photo": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2020/02/spaghetti-alla-carbonara/jcr:content/imagePreview.img.jpg",
+    "photo": "https://blog.giallozafferano.it/pierobenigni/wp-content/uploads/2021/03/IMG_1227-2a-2-960x640.jpg",
     "title": "Spaghetti Carbonara",
     "author": "Luca Bianchi",
     "prep_time": "25m",
